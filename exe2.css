@@ -1,17 +1,7 @@
-.container {
-
-background-color: aqua;
-align-items: center;
-
-display: flex;
 
 
-}
-
-
-h1{
-
-text-align: center;
-
-
-}
+.completed {
+    text-decoration: line-through;
+    color: #aaa; /* Change the color as desired */
+  }
+  

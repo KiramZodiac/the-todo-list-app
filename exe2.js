@@ -18,6 +18,7 @@ function renderTasks() {
     `;
     if (task.completed) {
       li.querySelector('span').classList.add('completed');
+    
     }
     taskList.appendChild(li);
 
